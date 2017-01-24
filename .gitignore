@@ -4,3 +4,5 @@ ui_*
 Makefile
 BLDC_Tool.app
 BLDC_Tool
+/.DS_Store
+/BLDC_Tool.pro.user
